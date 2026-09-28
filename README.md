@@ -63,10 +63,9 @@ J'ai développé mes compétences à travers des **projets personnels, des hacka
 ## 📊 &nbsp;Statistiques GitHub
 
 <p align="center">
-<a href="https://github.com/spectrezones-spectre">
+<a href="https://github.com/haroldawono">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=haroldawono&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=haroldawono&layout=compact&langs_count=8&theme=algolia"/>
   <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haroldawono&theme=algolia"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haroldawono&theme=react-dark&hide_border=true" />
 </a>
 </p>
