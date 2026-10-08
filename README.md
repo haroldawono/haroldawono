@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/hvRJLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-Je suis **Awono Harold**, **développeur Full-Stack Web & Mobile**. <br>
+Je suis **Awono Harold**. <br>
 
 Je conçois et développe des solutions en partant des besoins réels d'un projet, avec une attention portée à la fonctionnalité, à l'expérience utilisateur et à la cohérence de la solution.
 
