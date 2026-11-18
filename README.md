@@ -55,7 +55,7 @@ Je développe notamment des projets autour de :
 
 Mon parcours repose principalement sur la pratique, les projets concrets et l'apprentissage continu.
 
-J'ai développé mes compétences à travers des **projets personnels, des hackathons, des certifications et des expériences en entreprise**, en travaillant sur des problématiques réelles et en cherchant constamment à améliorer ma manière de concevoir et de développer des solutions.
+J'ai développé mes compétences à travers des **projets personnels, des hackathons, des certifications**, en travaillant sur des problématiques réelles et en cherchant constamment à améliorer ma manière de concevoir et de développer des solutions.
 
 ## 📊 &nbsp;Statistiques GitHub
 
