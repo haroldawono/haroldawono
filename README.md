@@ -16,7 +16,6 @@ Je conçois et développe des solutions en partant des besoins réels d'un proje
 - **Profil** : Développeur Full-Stack Web & Mobile
 - **Domaines** : Développement Web, Développement Mobile, Data Science, Technologies
 - **Expérience pratique** : Sites vitrines, plateformes e-commerce, applications web et projets
-- **Parcours** : Projets pratiques, hackathons, certifications et expériences en entreprise
 - **Approche** : Comprendre le besoin → Concevoir la solution → Construire le produit
 - **Objectif** : Transformer des idées et des besoins en solutions utiles et fonctionnelles au dela du code.
 
